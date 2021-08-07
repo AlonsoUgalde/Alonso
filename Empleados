@@ -1,0 +1,41 @@
+}
+public static void =main(String[] args);
+        Employe e1= new Employe();
+        Employe e2= new Employe();
+/* e2.id=1;
+e2.Nombre="Tiburcio";
+e2.ApellidoPaterno="Sanchez";
+e2.ApellidoMaterno
+e2.Edad
+e2.Correo
+e2.NumTel
+e2.Salario
+e2.FechaContratacion
+ */
+System.out.println("....................");
+e1.getDetails();
+e2.getDetails();
+/*
+e1.id=Integrer.parseInt(JopcionPane.ShowInputDialog("Ingrese el Nombre"));
+e1.firstname=JopcionPane.ShowInputDialog("Ingrese el Nombre");
+e1.lastname=JopcionPane.ShowInputDialog("Ingrese el Apellido");
+e1.age=Integrer.parseInt(JopcionPane.ShowInputDialog("Ingrese la edad"));
+e1.email=JopcionPane.ShowInputDialog("Ingrese el correo");
+e1.phonenumber=Integrer.parseIntJopcionPane.ShowInputDialog;
+e1.salary=Double.parseDouble(JopcionPane.ShowInputDialog("Ingresa el salario"));
+e1.hiredate=JopcionPane.ShowInputDialog("Ingrese la fecha de contratacion");
+ */
+/*
+e2.id=2;
+e2.firstname=JopcionPane.ShowInputDialog("Ingrese el Nombre");
+e2.lastname=JopcionPane.ShowInputDialog("Ingrese el Apellido");
+e2.age=30;
+e2.email=JopcionPane.ShowInputDialog("Ingrese el correo");
+e2.phonenumber=987654321;
+e2.salary=33000.33;
+e2.hiredate=JopcionPane.ShowInputDialog("Ingrese la fecha de contratacion");
+ */
+
+        //e2.getDetails();
+System.out.println("....................");
+        e2.getDetails();
